@@ -3,7 +3,7 @@ LinkedList realization
 Task
 Write a method delete() that takes an int argument k and deletes the kth element in a linked list, if it exists.
 
-API
+#API<br/>
 class LinkedListEx1320<Item> <br/>
 void addFirst(Item item); <br/>
 void addLast(Item item); <br/>
